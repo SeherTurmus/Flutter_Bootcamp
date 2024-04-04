@@ -1,0 +1,16 @@
+{
+    "appBarText":"Flutter Coffee House",
+    "caffeLatteText":"Caffe Latte",
+    "sugarText":"No Sugar!",
+    "creamText":"No Cream!",
+    "aromaText":"No Aroma!",
+    "smallText": "Small 10$",
+    "mediumText": "Medium 15$",
+    "largeText": "Large 20$",
+    "fullFatText":"FULL FAT",
+    "lowFatText":"LOW FAT",
+    "lactoseFreeText":"LACTOSE FREE",
+    "descriptionText":"Don't miss the smooth and delicious Latte flavor we prepared by adding silky milk to espresso!",
+    "priceText":"15$",
+    "addToCartText":"ADD TO CART"
+}

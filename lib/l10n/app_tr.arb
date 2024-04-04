@@ -1,0 +1,16 @@
+{
+    "appBarText":"Flutter Kahve Evi",
+    "caffeLatteText":"Kahve Latte",
+    "sugarText":"Şeker Yok!",
+    "creamText":"Krema Yok!",
+    "aromaText":"Aroma Yok!",
+    "smallText": "Küçük 70₺",
+    "mediumText": "Orta 80₺",
+    "largeText": "Büyük 90₺",
+    "fullFatText":"YAĞLI",
+    "lowFatText":"AZ YAĞLI",
+    "lactoseFreeText":"LAKTOZSUZ",
+    "descriptionText":"Espressoya ipeksi süt katarak hazırladığımız pürüzsüz ve lezzetli Latte lezzetini kaçırmayın!",
+    "priceText":"80₺",
+    "addToCartText":"SEPETE EKLE"
+}

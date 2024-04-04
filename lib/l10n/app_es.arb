@@ -1,0 +1,16 @@
+{
+    "appBarText":"Cafetería Flutter",
+    "caffeLatteText":"Cafe con leche",
+    "sugarText":"¡Sin Azucar!",
+    "creamText":"¡Sin Crema!",
+    "aromaText":"¡Sin Aroma!",
+    "smallText": "Pequeño 10$",
+    "mediumText": "Mediano 15$",
+    "largeText": "Grande 20$",
+    "fullFatText":"GORDO LLENO",
+    "lowFatText":"GORDO BAJO",
+    "lactoseFreeText":"SIN LACTOSA",
+    "descriptionText":"¡No te pierdas el suave y delicioso sabor Latte que preparamos agregando leche sedosa al espresso!",
+    "priceText":"15$",
+    "addToCartText":"AÑADIR A LA CESTA"
+}
